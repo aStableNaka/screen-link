@@ -1,0 +1,14 @@
+{
+	"name": "Screen Link",
+	"main": "./src/index.html",
+	"window": {
+		"frame": false,
+		"transparent": true,
+		"width": 800,
+		"height": 600
+	},
+	"dependencies": {
+		"iohook": "^0.2.0",
+		"robotjs": "^0.5.1"
+	}
+}
